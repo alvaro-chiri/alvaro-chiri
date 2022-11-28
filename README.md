@@ -1,4 +1,4 @@
-![MasterHead](img/Hello.gif)
+<img src="img/Hello.gif" width="100%" height="200">
 ### Hello there! 👋 I'm Alvaro, a motivated full stack developer eager to break into tech. Ever since I was young I've been fascinated by technology. During my free time I enjoy playing and watching soccer as well as playing video games with friends!
 
 
