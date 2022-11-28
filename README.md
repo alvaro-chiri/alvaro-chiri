@@ -1,4 +1,4 @@
-<img src="img/Hello.gif" width="100%" height="200">
+<img src="img/Hello.gif" width="100%" height="100%">
 <h3 align="center"> Hello there! 👋 I'm Alvaro, a motivated full stack developer eager to break into tech. Ever since I was young I've been fascinated by technology. During my free time I enjoy playing and watching soccer as well as playing video games with friends!</h3>
 
 
