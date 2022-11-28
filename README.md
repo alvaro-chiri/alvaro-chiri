@@ -1,5 +1,5 @@
 <p align="center"><img src="img/Hello.gif" width="50%" height="50%"></p>
-<h1 align="center">Hi 👋, I'm Alvaro</h1>
+<h1 align="center">Hello there 👋, I'm Alvaro</h1>
 <h3 align="center">A motivated full stack developer eager to break into tech. Ever since I was young I've been fascinated by technology. During my free time I enjoy playing and watching soccer, playing video games with friends, and enjoying nature!</h3>
 
 - 📫 How to reach me **alvarochirinos94@gmail.com**
