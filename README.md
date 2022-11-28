@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **alvarochirinos94@gmail.com**
 
-<p align="center"><img src="img/anime-totoro.gif" width="100%" height="100%"></p>
+<p align="center"><img src="img/waterfall.gif" width="100%" height="100%"></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
