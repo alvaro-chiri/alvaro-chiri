@@ -2,8 +2,8 @@
 <h3 align="center"> Hello there! 👋 I'm Alvaro, a motivated full stack developer eager to break into tech. Ever since I was young I've been fascinated by technology. During my free time I enjoy playing and watching soccer as well as playing video games with friends!</h3>
 
 
+<p align="center">[![GitHub Streak](https://streak-stats.demolab.com?user=alvaro-chiri&theme=highcontrast)](https://git.io/streak-stats)</p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=alvaro-chiri&theme=highcontrast)](https://git.io/streak-stats)
 <!-- 
 **alvaro-chiri/alvaro-chiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
